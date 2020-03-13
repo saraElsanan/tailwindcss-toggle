@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saraElsanan/tailwindcss-toggle"
+  },
   "keywords": [
     "npm",
     "tailwindcss",
-    "toggle"
+    "toggle",
+    "plugin"
   ],
   "author": "Sara <sara.mohamed.elsanan@gmail.com>",
   "license": "ISC"
