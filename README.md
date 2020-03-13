@@ -52,3 +52,4 @@ toggle-input-purple-800:checked ~ .toggle__dot {
       </label>
 
 <p> you can change colors , width and height , but don't forget to set your insets</p>
+<p>Based on CodePen tutorial https://codepen.io/lhermann/pen/EBGZRZ</p>
